@@ -1,4 +1,4 @@
-# qrcode.php
+# PHP QR Code
 
 ### Generate QR Codes. MIT license.
 
